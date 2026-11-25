@@ -1,0 +1,6 @@
+{
+  "name": "AYAAN GAMING",
+  "description": "AYAAN GAMING — 52 realistic 3D, mobile-style, action, sports, strategy, and puzzle games with Easy, Medium, and Difficult modes and 100 levels per game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
